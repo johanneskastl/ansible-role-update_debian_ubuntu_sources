@@ -1,0 +1,21 @@
+galaxy_info:
+  role_name: 'update_debian_ubuntu_sources'
+  author: 'Johannes Kastl'
+  description: 'Update the package information on Debian/Ubuntu'
+  company: 'B1 Systems GmbH'
+
+  license: 'BSD-3-Clause'
+
+  min_ansible_version: 2.4
+
+  platforms:
+  - name: Debian
+    versions:
+    - all
+  - name: Ubuntu
+    versions:
+    - all
+
+  galaxy_tags: []
+
+dependencies: []
