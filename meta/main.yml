@@ -1,5 +1,6 @@
 galaxy_info:
   role_name: 'update_debian_ubuntu_sources'
+  namespace: 'johanneskastl'
   author: 'Johannes Kastl'
   description: 'Update the package information on Debian/Ubuntu'
   company: 'B1 Systems GmbH'
