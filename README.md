@@ -25,7 +25,7 @@ Example Playbook
 
     - hosts: servers
       roles:
-         - { role: 'johanneskastl.update_debian_ubuntu_sources' }
+         - role: 'johanneskastl.update_debian_ubuntu_sources'
 
 License
 -------
